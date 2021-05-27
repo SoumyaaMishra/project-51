@@ -1,0 +1,27 @@
+h1{
+         color :#FF0000
+                }
+.Header{
+    display:flex;
+    justify-content: space-between;
+    background-color: #000000;
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: 400;
+    color: #ffffff;
+}
+.grid{
+    display : flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    border: 20px '#FF0000';
+    border-radius : 20px;
+}
+.item{
+    border-radius: 50px;
+    padding:30px ;
+    margin:25px;
+    background-color:#FF1493;
+    width: 300px;
+    font-family: fantasy;
+}
